@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class week2Challenge {
+public class B_Challenge {
     public static void main(String[] args) {
 
         // variables
